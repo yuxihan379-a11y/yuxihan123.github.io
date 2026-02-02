@@ -1,1 +1,1 @@
-git rm -f readme.md
+git rm -f README.md
