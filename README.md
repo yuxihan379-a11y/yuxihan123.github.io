@@ -6,7 +6,6 @@
 
 <!-- 下方为您提供的 MapMyVisitors 图片代码，已适配 GitHub -->
 <a href="https://mapmyvisitors.com/web/1c294" title="Visit tracker">
-  <img src="https://mapmyvisitors.com/map.png?d=df4-Hoc1Uwiy-8SqJBiTniV5eVjvyo-5bMNq620VLSI&cl=ffffff" alt="Visitors Map" />
 </a>
 
 ---
