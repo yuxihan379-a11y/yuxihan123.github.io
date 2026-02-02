@@ -1,7 +1,5 @@
 # Photonic-Electronic Accelerator Enabling Vision Foundation Model at the Edge
 
-Demonstration Video Link: https://drive.google.com/file/d/1HYei78FDh_ktuARQOWPaKXISiF5o7I2J/view?usp=sharing
-
 <iframe src="https://drive.google.com/file/d/1HYei78FDh_ktuARQOWPaKXISiF5o7I2J/preview" width="640" height="480"></iframe>
 
 <!-- 底部隐形追踪 -->
