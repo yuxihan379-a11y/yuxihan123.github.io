@@ -1,4 +1,6 @@
-# 🚀 我的网页项目
+# Photonic-Electronic Accelerator Enabling Vision Foundation Model at the Edge
+<img width="3238" height="175" alt="image" src="https://github.com/user-attachments/assets/31736e6b-6b50-49d2-b8f5-0a9dc52b194b" />
+
 
 这里是项目的介绍内容。
 
