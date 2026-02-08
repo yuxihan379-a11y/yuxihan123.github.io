@@ -15,5 +15,5 @@
 
 <a href="https://mapmyvisitors.com/web/1c2e9"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background: url('https://mapmyvisitors.com/map.png?d=zOSAksQlIdxdv4N9fru6xgVeAAtGOzDhLKoZUTDKYMs&cl=ffffff');" width="1" height="1" border="0"></a>
 
-<a href="https://mapmyvisitors.com/web/1c2e9"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=zOSAksQlIdxdv4N9fru6xgVeAAtGOzDhLKoZUTDKYMs&cl=ffffff" /></a>
+
 
