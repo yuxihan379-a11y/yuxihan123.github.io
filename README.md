@@ -1,11 +1,11 @@
 <br>
 
-<h1 align="center">Demo Video of the Prototype in Photonic-Electronic Accelerator<br>
-                   Enabling Vision Foundation Model at the Edge
+<h1 align="center">Demo Video of the General Purpose Edge AI Vision<br>
+                   with Optical Metasurfaces
 </h1>
 
 <div align="center">
-<iframe src="https://drive.google.com/file/d/1uucmx7hMhSI52AaQYxf2jM0b77InWaPq/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Tdn3XXBZjJO3L8LDu4zdzvyrk1GJusKB/preview" width="640" height="480"></iframe>
 </div>
 
 <!-- 底部隐形追踪 -->
