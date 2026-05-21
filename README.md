@@ -1,7 +1,7 @@
 <br>
 
-<h1 align="center">Demo Video of the Optical Metasurfaces<br>
-                   for General Vision Processing on the Edge
+<h1 align="center">Demo Video of the Optical Metasurfaces for General<br>
+                  Vision Processing on the Edge
 </h1>
 
 <div align="center">
